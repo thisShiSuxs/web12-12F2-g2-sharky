@@ -42,7 +42,7 @@ p {color: #000000; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet 
   float: right;
 margin-left: 15px;}
 #About h1 {color: black; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
- margin-left: 360px; font-size: 45px;}
+ margin-left: 25%; font-size: 45px;}
   #About p{   width: 95%;   padding: 20px;   box-sizing: border-box; }
 
  #Contact p{  width: 40%; padding: 15px;  margin-left: 20px; box-sizing: border-box; margin-right: 0px;}
